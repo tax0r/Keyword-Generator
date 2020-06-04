@@ -1,0 +1,3 @@
+mailProviderFileName:cfg/Mail Providers @.txt:
+keywordFile:cfg/keywords.txt:
+threads:100:
